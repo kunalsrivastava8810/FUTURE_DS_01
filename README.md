@@ -2,8 +2,6 @@
 
 # Supplement Sales Data Analysis Dashboard
 
-<img src="Dashboard/Supplement Sales Dashboard.png" alt="Dashboard Preview" />
-
 [![Power BI](https://img.shields.io/badge/Power%20BI-Desktop-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Task](https://img.shields.io/badge/Future%20Interns-Task%201-2dc572?style=for-the-badge)](https://futureinterns.com/data-science-analytics-task-1-2026/)
 [![GitHub](https://img.shields.io/badge/GitHub-ranjeet22-181717?style=for-the-badge&logo=github)](https://github.com/ranjeet22/FUTURE_DS_01)
