@@ -4,13 +4,13 @@
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-Desktop-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Task](https://img.shields.io/badge/Future%20Interns-Task%201-2dc572?style=for-the-badge)](https://futureinterns.com/data-science-analytics-task-1-2026/)
-[![GitHub](https://img.shields.io/badge/GitHub-ranjeet22-181717?style=for-the-badge&logo=github)](https://github.com/ranjeet22/FUTURE_DS_01)
+[![GitHub](https://img.shields.io/badge/GitHub-kunalsrivastava8810-181717?style=for-the-badge&logo=github)](https://github.com/kunalsrivastava8810/FUTURE_DS_01)
 [![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)]()
 
 **An end-to-end Power BI dashboard for Ecovital - a natural food supplement brand.**  
 Analysing $22.91M in revenue, 658K units sold, across 3 platforms and 3 global markets.
 
-[🔗 View Dashboard PDF](Dashboard/Supplement%20Sales%20Dashboard.pdf) · [📋 Task Details](https://futureinterns.com/data-science-analytics-task-1-2026/) · [⭐ Star this Repo](https://github.com/ranjeet22/FUTURE_DS_01)
+[📋 Task Details](https://futureinterns.com/data-science-analytics-task-1-2026/) · [⭐ Star this Repo](https://github.com/kunalsrivastava8810/FUTURE_DS_01)
 
 </div>
 
@@ -30,8 +30,6 @@ Analysing $22.91M in revenue, 658K units sold, across 3 platforms and 3 global m
 ---
 
 ## 📸 Dashboard Preview
-
-> **Open [`Dashboard/Supplement Sales Dashboard.pdf`](Dashboard/Supplement%20Sales%20Dashboard.pdf) for the full interactive export.**
 
 The dashboard features a clean Ecovital brand theme with the following visuals:
 
@@ -95,28 +93,11 @@ The dashboard features a clean Ecovital brand theme with the following visuals:
 
 ---
 
-## 📁 Repository Structure
-
-```
-FUTURE_DS_01/
-│
-├── 📁 Dashboard/
-│   ├── Supplement Sales Dashboard.pbix    ← Power BI source file
-│   └── Supplement Sales Dashboard.pdf    ← Exported dashboard
-│
-├── 📁 Data/
-│   └── Supplement_Sales_Weekly_Expanded.csv   ← Raw dataset
-│
-└── README.md
-```
-
----
-
 ## 🚀 How to Open
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/ranjeet22/FUTURE_DS_01.git
+   git clone https://github.com/kunalsrivastava8810/FUTURE_DS_01.git
    ```
 
 2. **Open the dashboard**
@@ -145,14 +126,13 @@ FUTURE_DS_01/
 | | |
 |--|--|
 | 📌 **Internship Programme** | [Future Interns - Data Science Task 1](https://futureinterns.com/data-science-analytics-task-1-2026/) |
-| 💼 **GitHub Profile** | [github.com/ranjeet22](https://github.com/ranjeet22) |
-| 📄 **Dashboard PDF** | [View Here](Dashboard/Supplement%20Sales%20Dashboard.pdf) |
+| 💼 **GitHub Profile** | [github.com/kunalsrivastava8810](https://github.com/kunalsrivastava8810) |
 
 ---
 
 <div align="center">
 
-**Built with ❤️ by Ranjeet · Future Interns Data Science & Analytics Internship · 2026**
+**Built by Kunal · Future Interns Data Science & Analytics Internship · 2026**
 
 *If you found this useful, please ⭐ star the repository!*
 
