@@ -125,20 +125,6 @@ git clone https://github.com/your-username/your-repository-name.git
 
 ---
 
-## 📸 Dashboard Preview
-
-### Dashboard Overview
-
-Add your dashboard screenshots here:
-
-```text
-Screenshots/dashboard-overview.png
-Screenshots/sales-analysis.png
-Screenshots/category-analysis.png
-```
-
----
-
 ## 📈 Key Business Insights
 
 * Identify top-performing supplement products.
